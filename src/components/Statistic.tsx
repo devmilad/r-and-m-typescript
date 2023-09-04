@@ -38,7 +38,7 @@ import {  DataType, useFetch } from '../hooks/useFetch';
               {title}
             </StatLabel>
             <StatNumber fontSize={'2xl'} fontWeight={'medium'}>
-                <CountUp end={stat} duration={3}/>
+                <CountUp end={stat || 0} duration={3}/>
                
               
             </StatNumber>
