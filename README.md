@@ -4,7 +4,7 @@
 
 #  🚀 Welcome to our Rick and Morty Character Explorer! 🌌
 
-📺 With the power of the Rick and Morty API, we've crafted a remarkable software that brings over 820 characters from the beloved series right to your screen, complete with their essential information.
+📺 With the power of the [Rick and Morty API](https://rickandmortyapi.com/documentation), we've crafted a remarkable software that brings over 820 characters from the beloved series right to your screen, complete with their essential information.
 
 
 🎨 Our website's stunning design is powered by React.js and Chakra UI, while TypeScript adds that extra layer of robustness.
